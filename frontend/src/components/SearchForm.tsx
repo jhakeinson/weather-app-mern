@@ -14,7 +14,7 @@ const SearchForm: React.FC<SearchFormProps> = ({
 
     return (
         <div className="bg-blue-500 w-3/4 h-3/4 flex flex-col gap-y-16 justify-center items-center">
-            <h1 className="text-sky-300 text-5xl">Weather App</h1>
+            <h1 className="text-sky-300 text-5xl">My Weather App</h1>
             <div className="w-3/4">
                 <label htmlFor="default-search" className="mb-2 text-sm font-medium text-gray-900 sr-only">Search</label>
                 <div className="relative w-full">
